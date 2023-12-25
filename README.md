@@ -1,15 +1,14 @@
-# Olá, eu sou [Felifelps]!
+# Olá, eu sou Felifelps!
 
 ## Sobre mim
 
 - 👩‍💻 Desenvolvedor de Software
 - 🌍 Localização: Brasil
-- 📷 [@felifelps.dev](https://www.instagram.com/felifelps.dev/)]
+- 📷 [@felifelps.dev](https://www.instagram.com/felifelps.dev/)
 
 ## Tecnologias
 
-- 💻 Linguagens de Programação: [Liste suas linguagens]
-- 🚀 Frameworks: [Liste seus frameworks]
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ## Projetos Destacados
 
