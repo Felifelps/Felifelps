@@ -1,10 +1,10 @@
-# Olá, eu sou [Seu Nome]!
+# Olá, eu sou [Felifelps]!
 
 ## Sobre mim
 
-- 👩‍💻 Desenvolvedora de Software
-- 🌍 Localização: [Sua Localização]
-- 🌐 [Seu Site ou Blog]
+- 👩‍💻 Desenvolvedor de Software
+- 🌍 Localização: Brasil
+- 📷 [@felifelps.dev](https://www.instagram.com/felifelps.dev/)]
 
 ## Tecnologias
 
