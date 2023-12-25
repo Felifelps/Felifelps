@@ -1,16 +1,36 @@
-### Hi there 👋
+# Olá, eu sou [Seu Nome]!
 
-<!--
-**Felifelps/Felifelps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+- 👩‍💻 Desenvolvedora de Software
+- 🌍 Localização: [Sua Localização]
+- 🌐 [Seu Site ou Blog]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- 💻 Linguagens de Programação: [Liste suas linguagens]
+- 🚀 Frameworks: [Liste seus frameworks]
+
+## Projetos Destacados
+
+- [Nome do Projeto](Link para o Projeto): Breve descrição
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&count_private=true&hide=contribs)
+
+## Contato
+
+- 📧 Email: [Seu Email]
+- 💼 LinkedIn: [Perfil do LinkedIn]
+- 🐦 Twitter: [Seu Perfil no Twitter]
+
+## Contribuições
+
+- ✨ Contribuições para projetos open source
+- 🌟 Projetos que estou interessado
+
+## Gostaria de Conversar?
+
+[![Chat no Telegram](https://img.shields.io/badge/Chat%20on-Telegram-blue)](Link para o seu chat no Telegram)
+
