@@ -20,7 +20,7 @@
 
 - [LineRun](https://github.com/Felifelps/LineRun): A simple game created by me;
 - [CifraNote](https://github.com/Felifelps/CifraNote): A simple app for guitarists to deal with chords;
-- [Biblioteca](https://github.com/Felifelps/Biblitoeca): A REST API for Biblioteca Municipal de Milagres Professora Socorro Lima, made with Flask.
+- [Biblioteca](https://github.com/Felifelps/Biblioteca): A REST API for Biblioteca Municipal de Milagres Professora Socorro Lima, made with Flask.
 
 ## Estatísticas do GitHub
 
