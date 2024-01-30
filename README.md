@@ -25,4 +25,5 @@
 
 ## Estatísticas do GitHub
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Felifelps&show_icons=true&locale=en&layout=compact" alt="felifelps" /></p>
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Felifelps&show_icons=true&count_private=true&hide=contribs)
