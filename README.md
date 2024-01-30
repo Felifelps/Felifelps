@@ -1,5 +1,5 @@
 # Felifelps
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caroline-teixeira&label=Profile%20views&color=0e75b6&style=flat" alt="caroline-teixeira" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Felifelps&label=Profile%20views&color=0e75b6&style=flat" alt="felifelps" /> </p>
 
 [![@felifelps.dev](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/felifelps.dev/)
 [![felipefelipe23456@gmail.com](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:felipefelipe23456@gmail.com)
@@ -26,3 +26,4 @@
 ## Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Felifelps&show_icons=true&count_private=true&hide=contribs)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Felifelps&show_icons=true&locale=en&layout=compact" alt="felifelps" /></p>
