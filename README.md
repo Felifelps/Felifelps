@@ -1,8 +1,8 @@
 # Felifelps
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Felifelps&label=Profile%20views&color=0e75b6&style=flat" alt="felifelps" /> </p>
 
-![@felifelps.dev](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/felifelps.dev/)
-![felipefelipe23456@gmail.com](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:felipefelipe23456@gmail.com)
+[![@felifelps.dev](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/felifelps.dev/)
+[![felipefelipe23456@gmail.com](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:felipefelipe23456@gmail.com)
 
 ## Tecnologias
 
