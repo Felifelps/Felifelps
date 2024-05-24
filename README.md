@@ -21,3 +21,6 @@ Urna eletrônica desenvolvida para a eleição do grêmio.
 
 ### [CifraNote](https://github.com/Felifelps/CifraNote)
 Bloco de notas para guitarristas com função de troca de tom de cifras.
+
+### [LineRun](https://github.com/Felifelps/LineRun)
+Jogo arcade de ligar números.
