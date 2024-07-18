@@ -1,5 +1,5 @@
 # Sou Felipe dos Santos Ferreira, Dev Backend/Desktop focado em Python!
-Gosto de  aprender novas tecnologias e [escrevo tutoriais](https://github.com/Felifelps/SecondBrain).
+Gosto de  aprender novas tecnologias e [anotar sobre](https://github.com/Felifelps/SecondBrain).
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-dos-santos-a699a6310/)
@@ -21,7 +21,7 @@ Gosto de  aprender novas tecnologias e [escrevo tutoriais](https://github.com/Fe
 ## Principais projetos
 
 ### [SecondBrain](https://github.com/Felifelps/SecondBrain)
-Conjunto de tutoriais acerca de meus estudos.
+Conjunto de anotações acerca de meus estudos.
 
 ### [CrismaApp](https://github.com/Felifelps/CrismaApp)
 Sistema Flask de gerenciamento de frequência de crismandos.
