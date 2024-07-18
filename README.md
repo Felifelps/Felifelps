@@ -1,5 +1,5 @@
 # Sou Felipe dos Santos Ferreira, Dev Backend/Desktop focado em Python!
-Gosto de  aprender novas tecnologias e [anotar sobre](https://github.com/Felifelps/SecondBrain).
+Gosto de  aprender novas tecnologias e [escrever sobre](https://github.com/Felifelps/SecondBrain).
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-dos-santos-a699a6310/)
