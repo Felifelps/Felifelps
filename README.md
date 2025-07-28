@@ -1,8 +1,8 @@
 # Felifelps
-Meu nome é Felipe dos Santos Ferreira, vulgo Felifelps. Gosto de  aprender novas tecnologias e [escrever sobre](https://github.com/Felifelps/SecondBrain).
+Meu nome é Felipe dos Santos Ferreira, sou um dev Python Backend focado em Django.
 
 ## Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-dos-santos-a699a6310/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devfelipesantos/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/felifelps.dev) 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felifelps.dev@gmail.com)
 
@@ -19,6 +19,7 @@ Com as quais possuo maior experiência:
 - ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white): Costumo usar para escrever tutoriais e arquivos de documentação
 - ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white): Projetos em andamento
 - ![Sqlite](https://img.shields.io/badge/Sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white): Utilizei em vários de meus projetos, como o [CifraNote](https://github.com/Felifelps/CifraNote)
+
 ### Experiências
 
 Com as quais já trabalhei:
