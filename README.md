@@ -30,6 +30,13 @@ Com as quais já trabalhei:
 
 ## Principais projetos
 
+### [DmNotes](https://github.com/Felifelps/DmNotes)
+
+WebApp Django para gerenciamento de notas para DungeonMasters:
+- templates com HTML5, CSS3, Bootstrap e JS;
+- sistema de views criado com Django.
+Permite organizar notas em campanhas e tags específicas.
+
 ### [CrismaApp](https://github.com/Felifelps/CrismaApp)
 
 Sistema Fullstack de gerenciamento de frequência de crismandos:
