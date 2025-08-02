@@ -1,5 +1,5 @@
 # Felifelps
-Meu nome é Felipe dos Santos Ferreira, sou um dev Python Backend focado em Django.
+Meu nome é Felipe dos Santos Ferreira, sou um dev Python Backend focado em Django. Atualmente trabalho como Dev Fullstack na Crono Wise.
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devfelipesantos/)
@@ -8,26 +8,7 @@ Meu nome é Felipe dos Santos Ferreira, sou um dev Python Backend focado em Djan
 
 ## Skills
 
-### Principais
-
-Com as quais possuo maior experiência:
-- ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54): Minha linguagem principal, usada em vários dos projetos que participei.
-- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white): Utilizei para a criação de API's RESTFUL e sistemas web Server-Side.
-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white): Sempre utilizei em meus projetos para versionamento do código.
-- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white): Divulgação e armazenamento de código.
-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white): Já manipulei containeres Docker em instâncias AWS.
-- ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white): Costumo usar para escrever tutoriais e arquivos de documentação
-- ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white): Projetos em andamento
-- ![Sqlite](https://img.shields.io/badge/Sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white): Utilizei em vários de meus projetos, como o [CifraNote](https://github.com/Felifelps/CifraNote)
-
-### Experiências
-
-Com as quais já trabalhei:
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white): Utilizei na estruturação de páginas web.
-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white): Utilizei para dar vida às páginas de sistemas web.
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E): Utilizei em projetos que demandavam controle da DOM. 
-- ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square): Utilizado no [CrismaApp](https://github.com/Felifelps/CrismaApp).
-- ![React](https://shields.io/badge/react-black?logo=react&style=flat-square): Utilizado no [CrismaApp](https://github.com/Felifelps/CrismaApp).
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Sqlite](https://img.shields.io/badge/Sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square) ![React](https://shields.io/badge/react-black?logo=react&style=flat-square)
 
 ## Principais projetos
 
@@ -37,6 +18,13 @@ WebApp Django para gerenciamento de notas para DungeonMasters:
 - templates com HTML5, CSS3, Bootstrap e JS;
 - sistema de views criado com Django.
 Permite organizar notas em campanhas e tags específicas.
+
+### [BibliotecaAcold](https://github.com/Felifelps/BibliotecaAcold)
+
+Sistema Web para gerenciamentos dos livros da Biblioteca Comunitária da ACOLD:
+- Docker e AWS EC2
+- Backend feito em Django, banco de dados Postgres
+- Templates feitos com HTML5. CSS3, JS e Bootstrap.
 
 ### [CrismaApp](https://github.com/Felifelps/CrismaApp)
 
@@ -50,13 +38,6 @@ Contém as funcionalidades de cadastro de crismandos e controle de suas frequên
 Biblioteca python Object-Relational-Mapping (ORM) para sqlite3.
 
 Completamente desenvolvida em python, utilizando Programação Orientada a Objetos para abstrair o uso da lib built-in do python `sqlite3`. A abstração foi baseada no Django-ORM e no Peewee. Contém testes unitários para melhor utilização.
-
-### [SecondBrain](https://github.com/Felifelps/SecondBrain)
-
-Conjunto de anotações em Markdown acerca de meus estudos, abordando temas como:
-- Docker
-- Git e GitHub
-- PostgreSQL e SQL
 
 ### [SysGremio](https://github.com/Felifelps/SysGremio)
 
